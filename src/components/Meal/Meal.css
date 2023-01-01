@@ -1,0 +1,39 @@
+.meal img {
+    width: 250px;
+    height: 200px;
+    padding: 5px 5px;
+    border-radius: 10px;
+}
+
+.meal {
+    border: 1px solid rgb(231, 214, 214);
+    width: 260px;
+    margin-bottom: 27px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    text-align: center;
+
+}
+
+.meal .rating {
+    margin-top: -13px;
+}
+
+.meal .btn-cart {
+    width: 100%;
+    padding: 9px 0px;
+    background-color: orange;
+    border: 0;
+    border-radius: 10px;
+
+}
+
+.meal .btn-cart:hover {
+    background-color: slateblue;
+    color: whitesmoke;
+}
+
+.meal-info {
+    margin-top: -13px;
+    font-family: 'Times New Roman', Times, serif;
+}

@@ -1,0 +1,92 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "Cheeseburger",
+        "seller": "Foodpanda",
+        "price": 420,
+        "rating": 4,
+        "img": "https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/5:4/w_3129,h_2503,c_limit/Smashburger-recipe-120219.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+        "name": "Veggie Burgers",
+        "seller": "Foodpanda",
+        "price": 196,
+        "rating": 5,
+        "img": "https://staticfanpage.akamaized.net/wp-content/uploads/sites/22/2021/09/beef-burger-1200x675.jpg",
+        "shipping": 14,
+        "quantity": 0
+    },
+    {
+        "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+        "name": "Jam Burger",
+        "seller": "Foodpanda",
+        "price": 245,
+        "rating": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiSMluBkZ_22DTGYfMB5AMFEF4mP0vDBI_Fw&usqp=CAU",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+        "name": " Andhra Chicken",
+        "seller": "Foodpanda",
+        "price": 229,
+        "rating": 5,
+        "img": "https://www.licious.in/blog/wp-content/uploads/2022/05/shutterstock_1587847900-750x750.jpg",
+        "shipping": 32,
+        "quantity": 0
+    },
+    {
+        "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+        "name": " Kerala Chicken",
+        "seller": "Foodpanda",
+        "price": 287,
+        "rating": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKlwoOBfHod4l18z6bG41PhkNJioWgxJK-Cg&usqp=CAU",
+        "shipping": 49,
+        "quantity": 0
+    },
+    {
+        "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+        "name": "Batter Fried Chicken",
+        "seller": "Foodpanda",
+        "price": 138,
+        "rating": 3,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjOyutoBsikIT2zPvgAxFx7icYwRUi-Dtx1w&usqp=CAU",
+        "shipping": 19,
+        "quantity": 0
+    },
+    {
+        "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+        "name": "Tomato Pasta",
+        "seller": "Foodpanda",
+        "price": 226,
+        "rating": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5hViL_Mr32iD5e7HpLR_7lBoMxuaGodb5cA&usqp=CAU",
+        "shipping": 15,
+        "quantity": 0
+    },
+    {
+        "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+        "name": "Garlic Butter Pasta",
+        "seller": "Foodpanda",
+        "price": 319,
+        "rating": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFUVAHvhqh6iyeipU33FuvMl1oeWnfltqgg&usqp=CAU",
+        "shipping": 50,
+        "quantity": 0
+    },
+    {
+        "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da77",
+        "name": "Baby Pasta",
+        "seller": "Foodpanda",
+        "price": 260,
+        "rating": 5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgERMxAHHLGfpFw0DiMzPpQCyU_h78RR9Wbw&usqp=CAU",
+        "shipping": 46,
+        "quantity": 0
+    }
+]

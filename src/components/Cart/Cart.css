@@ -1,0 +1,15 @@
+.cart {
+    background-color: rgb(200, 146, 47);
+    color: rgb(33, 48, 61);
+    padding: 10px 0;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    border: 1px solid salmon;
+    border-radius: 15px;
+}
+
+.cart hr {
+    height: 2px;
+    background-color: rgb(170, 170, 145);
+}
